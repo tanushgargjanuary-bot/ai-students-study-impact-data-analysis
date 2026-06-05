@@ -1,6 +1,6 @@
 # Data Impact on Students' Data Analysis
 
-### We're Finding
+## We're Finding
 
 What does the data say about AI's impact on students?
 
@@ -29,8 +29,19 @@ What does the data say about AI's impact on students?
 
 ## Phase 3: Column Understanding
 
-Understand each column and its meaning.
+These should be answerable by the End of Phase 3.
 
+    Which columns are outcomes?
+    
+    Which columns might influence those outcomes?
+
+    Which columns are just identifiers?
+
+    Which columns seem important?
+
+    Which columns seem less important?
+
+Understand each column and its meaning.
 Example:
 
 * `Study_Hours` = Hours spent studying
